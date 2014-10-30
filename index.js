@@ -47,11 +47,11 @@ fis.config.set('settings.optimizer.html-minifier', {
 
 fis.config.set('roadmap.path', [
     {
-        reg: '*.ejs',
+        reg: '**.ejs',
         release: false
     },
     {
-        reg: '*.handlebars',
+        reg: '**.handlebars',
         release: false
     },
     {
