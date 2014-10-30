@@ -25,7 +25,7 @@ npm install -g rsd
 
 ## 第二步：创建项目
 
-在 ``命令行`` 下clone本仓库，或者自己创建一个新的项目，并进入：
+在 ``命令行`` 下clone [示例项目](https://github.com/fouber/static-resource-digest-project)，或者自己创建一个新的项目，并进入：
 
 ```bash
 mkdir rsd-project  # 项目名任意
