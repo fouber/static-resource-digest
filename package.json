@@ -1,6 +1,6 @@
 {
   "name": "rsd",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "static resource digest, @see http://www.zhihu.com/question/20790576/answer/32602154",
   "main": "index.js",
   "preferGlobal": true,
@@ -17,6 +17,9 @@
     "resource",
     "digest"
   ],
+  "bin": {
+    "rsd": "bin/rsd"
+  },
   "author": "fouber.NET@gmail.com",
   "license": "MIT",
   "bugs": {
