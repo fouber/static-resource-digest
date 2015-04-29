@@ -1,6 +1,6 @@
 {
   "name": "rsd",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "description": "static resource digest, @see http://www.zhihu.com/question/20790576/answer/32602154",
   "main": "index.js",
   "preferGlobal": true,
@@ -27,9 +27,9 @@
   },
   "homepage": "https://github.com/fouber/static-resource-digest",
   "dependencies": {
-      "fis": "1.8.5",
+      "fis": "1.9.17",
       "fis-parser-less": "0.1.2",
-      "fis-parser-sass": "0.2.0",
+      "fis-parser-sass": "0.3.6",
       "fis-parser-coffee-script": "0.0.2",
       "fis-parser-handlebars": "0.0.1",
       "fis-parser-marked": "0.0.5",
