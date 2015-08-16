@@ -1,6 +1,6 @@
 {
   "name": "rsd",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "description": "static resource digest, @see http://www.zhihu.com/question/20790576/answer/32602154",
   "main": "index.js",
   "preferGlobal": true,
@@ -32,7 +32,7 @@
       "fis-parser-sass": "0.3.6",
       "fis-parser-coffee-script": "0.0.2",
       "fis-parser-handlebars": "0.0.1",
-      "fis-parser-marked": "0.0.5",
+      "fis-parser-marked": "0.0.6",
       "fis-parser-jade": "0.0.11",
       "scrat-parser-stylus": "0.0.4",
       "fis-parser-ejs": "0.0.1",
