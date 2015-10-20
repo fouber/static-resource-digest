@@ -22,8 +22,8 @@ fis.config.set('roadmap.ext', {
 // plugins
 fis.config.set('modules.parser', {
     less: 'less',
-    sass: 'sass',
-    scss: 'sass',
+    sass: 'node-sass',
+    scss: 'node-sass',
     styl: 'stylus',
     stylus: 'stylus',
     coffee: 'coffee-script',
